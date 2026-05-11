@@ -1,0 +1,6 @@
+INSERT INTO books (title, author, description, price, cover_url) VALUES
+('The Great Gatsby',      'F. Scott Fitzgerald', 'A story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, set against the backdrop of the Jazz Age.', 12.99, 'https://covers.openlibrary.org/b/id/8432452-L.jpg'),
+('To Kill a Mockingbird', 'Harper Lee',          'The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it.',                          14.99, 'https://covers.openlibrary.org/b/id/8228691-L.jpg'),
+('1984',                  'George Orwell',        'A haunting portrayal of a totalitarian society where Big Brother watches your every move.',                                              11.99, 'https://covers.openlibrary.org/b/id/8575708-L.jpg'),
+('Dune',                  'Frank Herbert',        'Set on the desert planet Arrakis, the story of Paul Atreides — a sweeping epic of politics, religion, and ecology.',                    16.99, 'https://covers.openlibrary.org/b/id/12008378-L.jpg'),
+('The Alchemist',         'Paulo Coelho',         'A magical story about Santiago, a shepherd boy who yearns to travel in search of a worldly treasure.',                                  10.99, 'https://covers.openlibrary.org/b/id/8231856-L.jpg');
