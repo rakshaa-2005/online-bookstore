@@ -1,4 +1,4 @@
-# 📚 Inkwell — Online Bookstore
+#  Online Bookstore
 
 A full-stack online bookstore built with **Java + Spring MVC** (backend) and **HTML/CSS/JavaScript** (frontend), using **JDBC** for database access.
 
